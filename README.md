@@ -1,4 +1,4 @@
-# LunarQuest
+# MoonQuest
 
 Un juego en desarrollo por alumnos de 4º GTI 
 
